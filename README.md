@@ -1,6 +1,6 @@
 # TopicSearch - React Component
 
-![Demo Screenshot](public/ss.png.png)
+![Demo Screenshot](public/ss.png)
 
 A responsive topic browser with real-time search capabilities, designed for modern catalogue management systems.
 
